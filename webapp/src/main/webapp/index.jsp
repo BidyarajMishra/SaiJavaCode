@@ -5,4 +5,3 @@
 <h2> We are done with DevOps Project-2 </h2>
 <h2> We are done with Docker Deployment!! </h2>
 <h2> Thanks for watching DevOps-2 project !!</h2>
-<h2> Thank You All </h2>
